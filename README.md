@@ -8,6 +8,7 @@
 | Thalita Gomes Henriques        |
 | Hymura Natsuki Rodrigues Sousa |
 
+---
 
 📌 Sobre o Projeto: 
 
