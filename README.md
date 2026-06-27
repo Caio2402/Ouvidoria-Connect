@@ -1,7 +1,9 @@
 Ouvidoria Connect
 📌 Sobre o Projeto:
 
+
 O Ouvidoria Connect é um sistema de ouvidoria desenvolvido em Python com integração ao MySQL.
+
 
 🎯 Objetivos:
 
@@ -10,7 +12,9 @@ Organizar as informações em um banco de dados.
 Permitir a consulta e o gerenciamento dos registros.
 Aplicar conceitos de programação, banco de dados e integração entre sistemas.
 
+
 ⚙️ Funcionalidades:
+
 
 ➕ Inserir uma nova manifestação;
 🔢 Exibir a quantidade de comentários cadastrados;
@@ -20,26 +24,34 @@ Aplicar conceitos de programação, banco de dados e integração entre sistemas
 ✏️ Atualizar um comentário pelo código;
 🗑️ Excluir uma manifestação pelo código.
 
+
 Categorias de Manifestação:
+
 
 Sugestão;
 Reclamação;
 Elogio.
 
+
 🛠️ Tecnologias Utilizadas:
+
 
 Python 3
 MySQL
 MySQL Connector for Python
 PyCharm
 
+
 Estrutura do Projeto: 
+
 
 menu.py → Menu principal e interação com o usuário.
 operacoesbd.py → Responsável pela conexão e operações com o banco de dados.
 Ouvidoria.py → Contém as funcionalidades de cadastro, consulta, atualização e exclusão das manifestações.
 
+
 COMO UTILIZAR O SISTEMA:
+
 
 1. Clone o repositório: git clone <link-do-repositorio> cd Ouvidoria-Connect;
 2. Instale as dependências: Este projeto utiliza o conector do MySQL para Python. Para instalá-lo, execute:
