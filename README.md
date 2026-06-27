@@ -1,4 +1,7 @@
 🏢 Ouvidoria Connect
+
+---
+
 📌 Sobre o Projeto
 
 O Ouvidoria Connect é um sistema de ouvidoria desenvolvido em Python com integração ao MySQL, permitindo o cadastro e gerenciamento de manifestações de forma simples e organizada.
